@@ -29,7 +29,7 @@ Hantera betyg för en hel klass och skapa statistik.
   * Hitta klassens bästa student ✅
   * Räkna antal godkända (≥ 3) vs underkända (< 3) ✅
 * Visa en ranking-lista (sortera studenter efter genomsnitt) ❌
-## Uppgift 3: Veckans utgifter
+## Uppgift 3: Veckans utgifter ✅
 ### Beskrivning
 Skapa ett program som håller reda på dina utgifter under en vecka.
 ### Krav
