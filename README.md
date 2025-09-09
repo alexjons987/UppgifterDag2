@@ -40,7 +40,7 @@ Skapa ett program som håller reda på dina utgifter under en vecka.
   * Hitta den dyraste dagen
   * Räkna dagar över 100 kr
 * Visa resultat
-## Uppgift 4: Handelslista med priser
+## Uppgift 4: Handelslista med priser ✅
 ### Beskrivning
 Skapa en handelslista där användaren kan mata in varor och priser.
 ### Krav
