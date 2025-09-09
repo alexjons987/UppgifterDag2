@@ -68,6 +68,6 @@ public class Uppgift2 {
 
         System.out.println(); // Newline for pretty printing in console
 
-        // Show a list ranking best - worst student
+        // TODO: Show a list ranking best - worst student
     }
 }
