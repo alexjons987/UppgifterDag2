@@ -6,10 +6,10 @@ public class Main {
         while (flag) {
             Scanner scanner = new Scanner(System.in);
             System.out.println("\n1. Temperature analysis");
-            System.out.println("2. ");
-            System.out.println("3. ");
-            System.out.println("4. ");
-            System.out.println("5. ");
+            System.out.println("2. Class grading");
+            System.out.println("3. Weekly bill");
+            System.out.println("4. Shopping list");
+            System.out.println("5. Number guessing game");
             System.out.print("Choose assignment 1-5 (0 = exit): ");
             int chosenAssignment = scanner.nextInt();
 
