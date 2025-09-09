@@ -51,7 +51,7 @@ Skapa en handelslista där användaren kan mata in varor och priser.
   * Räkna totalkostnad
   * Hitta dyraste varan
   * Visa hela listan
-## Uppgift 5: Enkel tal-lek ❌
+## Uppgift 5: Enkel tal-lek ✅
 ### Beskrivning
 Skapa en enkel lek där datorn väljer 5 hemliga tal och användaren ska gissa.
 ### Krav
