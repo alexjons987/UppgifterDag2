@@ -9,13 +9,13 @@ public class Uppgift4 {
         String currency = "SEK";
 
         // Ask how many items are being bought
-        int itemsToBuy;
+        int itemCount;
         do {
             System.out.print("Enter items to buy (max 10): ");
-        } while ((itemsToBuy = scanner.nextInt()) > 10);
+        } while ((itemCount = scanner.nextInt()) > 10);
 
-        String[] items = new String[itemsToBuy];
-        double[] prices = new double[itemsToBuy];
+        String[] items = new String[itemCount];
+        double[] prices = new double[itemCount];
 
         // Ask for items + price for each item
         for (int i = 0; i < items.length; i++) {

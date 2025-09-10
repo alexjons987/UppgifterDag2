@@ -15,7 +15,7 @@ Skapa ett program som samlar temperaturdata för en vecka och analyserar den.
   * Antal dagar över 20°C
 * Använd **enhanced for-loop** för att visa alla temperaturer
 * Visa en graf med stjärnor (`*`) där varje stjärna = 2°C
-## Uppgift 2: Studentbetyg för en klass ❌
+## Uppgift 2: Studentbetyg för en klass ✅
 ### Beskrivning
 Hantera betyg för en hel klass och skapa statistik.
 ### Krav
@@ -25,10 +25,10 @@ Hantera betyg för en hel klass och skapa statistik.
   * Läs in namn (`String[]`)
   * Läs in 5 betyg (int-array för varje student = 2D-array)
 * Använd **nested loops** för att:
-  * Beräkna varje students genomsnitt ✅
-  * Hitta klassens bästa student ✅
-  * Räkna antal godkända (≥ 3) vs underkända (< 3) ✅
-* Visa en ranking-lista (sortera studenter efter genomsnitt) ❌
+  * Beräkna varje students genomsnitt
+  * Hitta klassens bästa student
+  * Räkna antal godkända (≥ 3) vs underkända (< 3)
+* Visa en ranking-lista (sortera studenter efter genomsnitt)
 ## Uppgift 3: Veckans utgifter ✅
 ### Beskrivning
 Skapa ett program som håller reda på dina utgifter under en vecka.
